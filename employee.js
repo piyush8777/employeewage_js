@@ -1,7 +1,7 @@
 /*************************************************************
- * Purpose - Implementing employee wage program In javascript
+ * Purpose - Implementing employee wage program in javascript
  * 
- * @author Rekha
+ * @author Piyush
  * @since 13-07-2021
  **************************************************************/
 
