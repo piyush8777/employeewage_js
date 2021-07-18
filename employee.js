@@ -295,7 +295,7 @@ console.log("Full Working Days: " +fullWorkingDays);
 console.log("Part Working Days: " +partWorkingDays);
 console.log("Non Working Days: " +nonWorkingDays);
 */
-//UC10:Object Operation using Arrow Function
+//UC10:Object Creations
 
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
